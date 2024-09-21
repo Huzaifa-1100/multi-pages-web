@@ -12,18 +12,10 @@ const Footer = () => {
       <footer className="text-black body-font bg-gray-50">
         <div className="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
           <a className="flex title-font font-bold items-center md:justify-start justify-center text-black">
-            <span className="ml-3 text-xl">Quratulain Shah</span>
+            <span className="ml-3 text-xl">Huzaifa Ayub</span>
           </a>
           <p className="text-sm text-black sm:ml-4 sm:pl-4 sm:border-l-2  sm:py-2 sm:mt-0 mt-4">
-            © 2024 Quratulain —
-            <a
-              href="https://x.com/stelalvna"
-              className="text-black ml-1"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              @shah
-            </a>
+            © 2024 Huzaifa-1100
           </p>
 
           <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start gap-4 text-black items-center">
@@ -31,31 +23,20 @@ const Footer = () => {
               Connect with me:
             </p>
             <a
-              href="https://www.facebook.com/profile.php?id=61565211897828"
+              href="https://www.facebook.com/H.Z.Shooter"
               className="transition-all duration-300 hover:scale-110"
             >
               <FaFacebookSquare className="w-[28px] h-[28px] text-black hover:text-[#1877F2] hover:-translate-y-1" />
             </a>
+
             <a
-              href="https://x.com/stelalvna"
-              className="transition-all duration-300 hover:scale-110"
-            >
-              <FaSquareXTwitter className="w-[28px] h-[28px] text-black hover:text-gray-100 hover:-translate-y-1" />
-            </a>
-            <a
-              href="https://www.instagram.com/muhammadsalah9544/"
-              className="transition-all duration-300 hover:scale-110"
-            >
-              <FaInstagramSquare className="w-[28px] h-[28px] text-black hover:text-[#fa7e1e] hover:-translate-y-1" />
-            </a>
-            <a
-              href="https://github.com/Quratulain-bilal"
+              href="https://github.com/Huzaifa-1100"
               className="transition-all duration-300 hover:scale-110"
             >
               <FaSquareGithub className="w-[28px] h-[28px] text-black hover:text-[#6e5494] hover:-translate-y-1" />
             </a>
             <a
-              href="https://www.linkedin.com/in/quratulain-shah-7bb869316"
+              href="https://www.linkedin.com/in/huzaifa-ayub-b29132288/"
               className="transition-all duration-300 hover:scale-110"
             >
               <FaLinkedin className="w-[28px] h-[28px] text-black hover:text-[#0072b1] hover:-translate-y-1" />
